@@ -1,5 +1,5 @@
 ## Здравствуй! 👋
-![Header](https://github.com/Yioili/Yioili/blob/main/assets/text(3).gif)
+![Header](https://github.com/Yioili/Yioili/blob/main/assets/ggif.gif)
 <!--
 **Yioili/Yioili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
