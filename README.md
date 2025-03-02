@@ -3,7 +3,7 @@
 
 ![Header](https://github.com/Yioili/Yioili/blob/main/assets/ggif.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDE910&width=435&lines=My+name+is+Yana+and+I`m+a+QA+Engineer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDE910&width=435&lines=My+name+is+Yana+and+I`m+a+QA+Engineer )](https://git.io/typing-svg) 
 
 ![Profile_views](https://komarev.com/ghpvc/?username=danny-pilot&color=yellow&style=plastic)
 <!--
